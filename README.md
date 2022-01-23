@@ -1,6 +1,6 @@
 # Shooting game made in C++ using the Allegro library.
 
-## Se inscreva no Meu Canal do Youtube:<br>
+Se inscreva no Meu Canal do Youtube:<br>
 https://www.youtube.com/NerdAutodidata
 
 Download link - Dev C++ & Allegro:<br>
