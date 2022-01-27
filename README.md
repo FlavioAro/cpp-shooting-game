@@ -5,6 +5,7 @@ https://www.youtube.com/NerdAutodidata
 
 <b>Video Tutorial</b><br>
 You can see my youtube video for this project in [here](https://www.youtube.com/watch?v=tIJDd7L-0o8)
+https://www.youtube.com/watch?v=tIJDd7L-0o8
 
 Download link - Dev C++ & Allegro:<br>
 http://www.mediafire.com/file/9g84v63tgxir0vq/C_-_Allegro.rar/file
